@@ -28,9 +28,8 @@ body{
 }
 
 .search-button img {
-  height: 100px;
-  margin-left: 25px;
-}
+  height: 25px;
+  margin-left: 0 ;
 header {
   display: flex;
   justify-content: space-between;
