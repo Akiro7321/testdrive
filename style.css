@@ -28,8 +28,8 @@ body{
 }
 
 .search-button img {
-  height: 25px;
-  margin-left: 0 ;
+  height: 100px;
+  margin-left: 25px;
 }
 header {
   display: flex;
